@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "condition",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "value",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ifElse.sol": "ifElse"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ifElse.sol": {
+			"keccak256": "0x41e3bfe5b9f15016fe8ea03776b402d2bb494900e85857f76cc9666a4b27d20e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3ab375760edfb41df32e27ccc76a8890948cd03addedec1bfc98332a5210bdc3",
+				"dweb:/ipfs/QmUBWa2nG5scDJsxUK3FMSNYs8GAFbo31S9LGttpPaFbBM"
+			]
+		}
+	},
+	"version": 1
+}

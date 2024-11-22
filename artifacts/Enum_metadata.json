@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Enum3.sol": "Enum"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"/Enum2.sol": {
+			"keccak256": "0xad8daf3ac22c00946587ee0a436b9205f4f2495259ae0a8880a56a5f53b55185",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c978e05941f8938bb05f83a69b5705b756125e89ad38a269fcaba3fcb06d873b",
+				"dweb:/ipfs/QmUD3dncFGaR8eJcKNGi96msTD1obHfpCJTmQS5RfjrYe8"
+			]
+		},
+		"Enum3.sol": {
+			"keccak256": "0x13da9b2ff27cb25d0512b045016dd41c72a3ad95ee449f73786228b34b6384b6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1398a3e83f7cd60eca53c7960359bd370ceab810f7bde212c77749cadd4fe84b",
+				"dweb:/ipfs/QmW5E1MeV37g4tLYP8xzoHsV6YYimuX2E5CGXy3x7HiX5U"
+			]
+		}
+	},
+	"version": 1
+}
